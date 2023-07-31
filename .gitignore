@@ -26,3 +26,4 @@ frontend/!.env.example
 # Other files
 chat.txt
 *.txt
+!requirements.txt
