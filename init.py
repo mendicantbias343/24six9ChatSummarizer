@@ -33,6 +33,7 @@ def get_last_n_days(n):
 
 
 dates = get_last_n_days(20)
+#dates = ["29/07/2023","30/07/2023"]
 print(dates)
 
 with open('./chat.txt', encoding='utf8') as f:
@@ -118,7 +119,7 @@ for index, date in enumerate(dates):
         print("Calling " + str(index))
         message = [{
             "role": "system",
-            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following text and summarize it into a concise topics. Please avoid unnecessary details or tangential points. Please don't be vague using terms like various topics. Each topic has to be unique. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main topics covered, no details needed>', 'search_terms': ['2-3 unique search terms that are present in the text']}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
+            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following text and summarize it into a concise topics. Please avoid unnecessary details or tangential points. Please don't be vague using terms like various topics. Each topic has to be unique. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main themes covered. Limit the number of topics to a max of 7 and a minimum of 3>', 'search_terms': [<2-3 unique search terms that are present in the text>], detailed_topic_summary: <verbose discussion details. minimum 50 words.>}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
 
         },
             {
@@ -140,10 +141,10 @@ for index, date in enumerate(dates):
 with open('frontend/content/final_data.json', 'r') as f:
     try:
         datax = json.load(f)
-        datax.append(final_obj)
+        datax.extend(final_obj)
     except:
         datax = []
-        datax.append(final_obj)
+        datax.extend(final_obj)
 
 with open('frontend/content/final_data.json', 'w') as f:
     json.dump(datax,f)
