@@ -4,7 +4,8 @@
       class="date-navigation text-md text-primary-focus flex-row flex justify-around w-full items-stretch text-2xl"
     >
       <div class="previous cursor-pointer">
-        <a v-bind:href="previous_date">⏮️</a>
+       
+         <NuxtLink v-bind:to="previous_date">⏮️</NuxtLink>
       </div>
       <div class="current-date w-4/5 text-center text-lg">
         {{ formattedDate }}
