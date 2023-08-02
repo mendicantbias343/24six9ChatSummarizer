@@ -32,8 +32,9 @@ def get_last_n_days(n):
     return date_list
 
 
-dates = get_last_n_days(20)
-#dates = ["29/07/2023","30/07/2023"]
+dates = get_last_n_days(30) 
+dates = ['12/07/2023', '13/07/2023', '14/07/2023', '15/07/2023', '16/07/2023', '17/07/2023', '18/07/2023', '19/07/2023', '20/07/2023', '21/07/2023', '22/07/2023', '23/07/2023', '24/07/2023', '25/07/2023', '26/07/2023', '27/07/2023', '28/07/2023', '29/07/2023', '30/07/2023']
+#dates = [ '21/07/2023', '22/07/2023', '23/07/2023', '24/07/2023', '25/07/2023', '26/07/2023', '27/07/2023', '28/07/2023', '29/07/2023', '30/07/2023']
 print(dates)
 
 with open('./chat.txt', encoding='utf8') as f:
@@ -116,10 +117,10 @@ final_obj = []
 
 for index, date in enumerate(dates):
     if( index < len(sanit_chat_list)):
-        print("Calling " + str(index))
+        print("Calling " + str(index) + "for the date: " + date)
         message = [{
             "role": "system",
-            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following text and summarize it into a concise topics. Please avoid unnecessary details or tangential points. Please don't be vague using terms like various topics. Each topic has to be unique. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main themes covered. Limit the number of topics to a max of 7 and a minimum of 3>', 'search_terms': [<2-3 unique search terms that are present in the text>], detailed_topic_summary: <verbose discussion details. minimum 50 words.>}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
+            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following chat and summarize it into a concise topics (min 3, max 10).Don't use vague terms like various topics. Each topic has to be unique and not related to the next one. When you're giving the detailed topic summary, please retain links and important conversation pieces. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main themes covered>', 'search_terms': [<2-3 unique search terms that are present in the text>], detailed_topic_summary: <verbose discussion details. minimum 70 words.>}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
 
         },
             {
@@ -130,13 +131,19 @@ for index, date in enumerate(dates):
         try:
             chat_completion = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo-16k-0613", messages=message)
-            d = json.loads(chat_completion.choices[0].message.content)
+            try:
+                d = json.loads(chat_completion.choices[0].message.content)
+            except RuntimeError:
+                print(chat_completion.choices[0].message.content)
             # replace the date to the accepted value
             print("Call to " + str(index) + " done.")
             d["date"] = date.replace('/', '')
             final_obj.append(d)
-        except:
+        except RuntimeError:
             print("ERRROR!")
+            print(RuntimeError)
+
+datax = []
 
 with open('frontend/content/final_data.json', 'r') as f:
     try:

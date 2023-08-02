@@ -28,7 +28,7 @@
             <div class="searchable">
               <span
                 class="badge badge-accent mx-1 py-1 text-md mt-3"
-                v-for="term in topic.search_terms"
+                v-for="term in splitter(topic.search_terms)"
                 >{{ term }}</span
               >
             </div>
@@ -115,9 +115,17 @@ function formatDate(inputDate) {
   return finalFormattedDate.replace("th", suffix);
 }
 
-// Example usage:
 const inputDate = ref(data.date);
 const formattedDate = ref(formatDate(inputDate.value));
+
+function splitter(arrayorstring){
+  if(Array.isArray(arrayorstring)){
+    return arrayorstring
+  }
+  else{
+    return arrayorstring.split(",")
+  }
+}
 </script>
 
 <style scoped></style>
