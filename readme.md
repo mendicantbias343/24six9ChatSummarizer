@@ -114,13 +114,13 @@ The chat limitation is 16k tokens for the model we're using (`gpt-3.5-turbo-16k-
 # Roadmap
 I'm planning to add the following functionalities:
 
-1. Verbose description of the topics
+1. ~~Verbose description of the topics~~
 2. Search by topic
 3. See all hiring requirements by date
 4. Weekly view
 5. Categorizing topics
 6. Leaderboards for contributors (based on quantity)
-7. [Technical] Using components insteading of vomitting html in the pages
+7. [Technical]~~ Using components insteading of vomitting html in the pages~~
 8. Changelog page
 9. Analytics
 10. Bug fixes
