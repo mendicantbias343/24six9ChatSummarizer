@@ -801,5 +801,347 @@
       "https://www.linkedin.com/feed/update/urn:li:activity:7091338373797167104/"
     ],
     "date": "30072023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Chat Summary Tool",
+        "search_terms": ["chats", "summary", "tool"],
+        "detailed_topic_summary": "The chat conversation starts with an introduction to a tool that provides weekly summaries of chats. The tool is created using Python, ChatGPT, NuxtJS, and Vercel. Feedback and suggestions for improvement are requested."
+      },
+      {
+        "topic": "Desired Features",
+        "search_terms": ["click topic", "relevant texts", "summary"],
+        "detailed_topic_summary": "Participants express the desire for the tool to have features such as clicking on a topic to view relevant texts, detailed summaries of discussions, action items, and the identification of main topic contributors."
+      },
+      {
+        "topic": "Hiring Requests",
+        "search_terms": ["part-time job", "hiring", "Arabic speakers"],
+        "detailed_topic_summary": "One participant seeks help in finding a part-time job for an Arabic speaker. Contact information is shared for interested recruiters. Another participant seeks referrals for an excellent engineer with a startup passion."
+      },
+      {
+        "topic": "Logistics Solutions",
+        "search_terms": [
+          "document pick/drop",
+          "logistics",
+          "delivery companies"
+        ],
+        "detailed_topic_summary": "Participants discuss logistics solutions, including companies that offer document pick-up and drop-off services. Links to relevant websites, such as Yango and Jeebly, are shared along with positive reviews."
+      },
+      {
+        "topic": "Appreciation and Link Sharing",
+        "search_terms": ["feedback", "LinkedIn links", "appreciation"],
+        "detailed_topic_summary": "Participants express appreciation for the chat summary tool and share links to LinkedIn posts thanking the creator. The usefulness of the LinkedIn links is highlighted."
+      },
+      {
+        "topic": "Feedback and Updates",
+        "search_terms": [
+          "feedback",
+          "topic links",
+          "chat integration",
+          "fork code"
+        ],
+        "detailed_topic_summary": "The creator responds to feedback, stating that direct chat integration for topic links is not possible. Alternative suggestions are given, and the potential addition of topic summary discussions and leaderboards is discussed. Instructions and code for using the tool are shared."
+      },
+      {
+        "topic": "Investment and Business Opportunities",
+        "search_terms": [
+          "accelerator program",
+          "investment opportunities",
+          "family office"
+        ],
+        "detailed_topic_summary": "Opportunities for investment, accelerator programs, and interaction with family offices are discussed. Relevant links, such as discussions on raising investments from Middle East family offices, are shared."
+      },
+      {
+        "topic": "Regional Inspiration",
+        "search_terms": ["regional inspiration", "regional innovation"],
+        "detailed_topic_summary": "Participants share links to regional examples of innovation and inspiration, such as modified cars and interesting videos."
+      }
+    ],
+    "hiring_requests": ["part-time job", "excellent engineer"],
+    "links": [
+      "http://2469chatsummary.rkakodker-dev.cloud/",
+      "https://www.linkedin.com/posts/jamilshinawi_thanks-to-rameez-kakodker-now-you-can-check-activity-7091618106023849984-zIrr?utm_source=share&utm_medium=member_ios",
+      "https://yango.delivery/ae-en",
+      "https://jeebly.com/consumer-solutions/",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7091761897401688064-OPPD?utm_source=share&utm_medium=member_android",
+      "https://www.instagram.com/reel/CvXnTDDrqy3/?igshid=MTc4MmM1YmI2Ng=="
+    ],
+    "date": "31072023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Workplace coaching and employee well-being study",
+        "search_terms": ["workplace coaching", "employee well-being", "study"],
+        "detailed_topic_summary": "A coach in a study exploring the relationship between workplace coaching and employee well-being is seeking participants. The study is recognized by the International Coaching Federation and requires participants to attend five or more sessions and complete surveys. The coach is offering a discounted price for the entire period of working with them."
+      },
+      {
+        "topic": "Investment in eSIM-based global roaming marketplace",
+        "search_terms": [
+          "investment",
+          "eSIM-based global roaming",
+          "marketplace"
+        ],
+        "detailed_topic_summary": "Airalo, an eSIM-based global roaming marketplace, has received a Series B investment of $60 million. The news of this investment has generated different opinions in the group, with some seeing it as good news for the ecosystem while others believe it does not benefit the local startup scene. Suggestions for supporting local startups have also been shared."
+      },
+      {
+        "topic": "Debate on supporting local ecosystem and investment decisions",
+        "search_terms": [
+          "support local ecosystem",
+          "investment decisions",
+          "startup economy"
+        ],
+        "detailed_topic_summary": "A debate on the support for the local startup ecosystem has emerged, with differing opinions on the impact of investments. Some argue that investments are needed for cash flow and the growth of the business ecosystem, while others criticize the focus on 'sexy' startups and the lack of support for local companies. The discussion touches on the role of corporate VCs, risk-taking, and the involvement of LPs."
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://techcrunch.com/2023/07/31/airalo-locks-in-60m-to-expand-its-esim-based-global-roaming-marketplace/",
+      "https://mobimatter.com/",
+      "https://www.celitech.com/",
+      "https://www.simly.io/",
+      "https://www.youtube.com/live/me1fBxx9wJY?feature=share",
+      "https://esopme.com/"
+    ],
+    "date": "01082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Startups and Investments",
+        "search_terms": ["startups", "investments"],
+        "detailed_topic_summary": "The chat discusses topics related to startups and investments. It mentions the number of co-founders, the importance of having a strong core team with ESOPs, references to Y Combinator (YC) standards, the use of joinodin.com for an SPV, and the positive impact of Saudi Arabia on the VC ecosystem in the UAE. It also includes links to articles related to Saudi Aramco and AI startups."
+      },
+      {
+        "topic": "AI Startups and AI-enabled Businesses",
+        "search_terms": ["AI startups", "AI-enabled businesses"],
+        "detailed_topic_summary": "The chat delves into the difference between AI startups and AI-enabled businesses. It emphasizes the value of proprietary models in AI and the need for investors to understand the distinction between the two types of businesses. It highlights the importance of AI as a core USP rather than just an enhancement for customer experience. The discussion also touches on the potential challenges faced by businesses that misposition AI at their core."
+      },
+      {
+        "topic": "Events and Networking",
+        "search_terms": ["events", "networking"],
+        "detailed_topic_summary": "The chat includes discussions about various events, networking opportunities, and podcasts. It mentions the NorthStar show, GITEX, business breakfast events, and podcast recommendations. Links to relevant articles and podcasts are shared, and members express their experiences and recommendations related to attending these events."
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://fortune.com/2023/08/01/saudi-aramco-profitable-oil-company-trillions/",
+      "https://www.linkedin.com/posts/brandy-scott-9552a624_on-tomorrows-business-breakfast-well-speak-activity-7092182042326556672-6jdf?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/ayman-alashkar_artificialintelligence-ip-investors-activity-7092379902728970240-rkpj?utm_source=share&utm_medium=member_desktop",
+      "https://www.khaleejtimes.com/opinion/uae-how-i-waited-16-hours-for-help-after-my-electric-car-went-offline",
+      "https://podcasts.apple.com/ae/podcast/how-i-built-this-with-guy-raz/id1150510297?i=1000376743473",
+      "https://www.npr.org/posts/martinsek/7091847698605056000-kOij?utm_source=share&utm_medium=member_ios",
+      "https://www.instagram.com/reel/CnrJB4UOt9z/?igshid=MzRlODBiNWFlZA==",
+      "https://www.linkedin.com/feed/michaeljacksonvc_vc-venturecapital-startups-activity-7091847698605056000-kOij?utm_source=share&utm_medium=member_ios",
+      "https://www.instagram.com/reel/CvVxzZFuoFT/?igshid=MTc4MmM1YmI2Ng==",
+      "https://uk.finance.yahoo.com/news/visioncosmos-saudi-arabia-maritime-launch-115200409.html",
+      "https://maps.app.goo.gl/tWqmsGkZ6SYzQuHRA?g_st=ic",
+      "https://maps.app.goo.gl/GhhF7xVZyhEv461t6",
+      "https://maps.app.goo.gl/PWTjkAMeyGRe76HU9?g_st=ic",
+      "https://g.co/kgs/kaVX9r",
+      "https://maps.app.goo.gl/A6MkjSZ2ApUL2T4Q9?g_st=iwb"
+    ],
+    "date": "02082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "EdTech",
+        "search_terms": ["EdTech", "education technology"],
+        "detailed_topic_summary": "There is a discussion about EdTech and its importance. One member expresses their interest and passion for EdTech. Another member asks for recommendations for a closed loop payments solution in the EdTech space."
+      },
+      {
+        "topic": "VC speak and apologies",
+        "search_terms": ["VC speak", "apologies"],
+        "detailed_topic_summary": "Someone in the group asks for the VC term used to convey the message 'we screwed up and we're sorry but we understand now.' It sparks a conversation about the importance of honesty and non-sugarcoated feedback in the startup ecosystem."
+      },
+      {
+        "topic": "Networking in San Francisco",
+        "search_terms": [
+          "San Francisco",
+          "tech sales",
+          "AEs",
+          "BDRs",
+          "Sales leaders"
+        ],
+        "detailed_topic_summary": "Two founders are planning a trip to San Francisco to meet tech sales professionals and understand their problems. They request introductions to AEs, BDRs, and Sales leaders in SF."
+      },
+      {
+        "topic": "Founders and entrepreneurs for podcast",
+        "search_terms": [
+          "Founders",
+          "Entrepreneurs",
+          "podcast",
+          "Fintech",
+          "Blockchain",
+          "AI"
+        ],
+        "detailed_topic_summary": "The founder of a podcast called Traders Brawl is looking for founders and entrepreneurs from the emerging technology space (Fintech, Blockchain, AI) to be speakers on their podcast. They request partnership opportunities."
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://www.linkedin.com/posts/techstars_squadtrip-raises-15m-in-funding-to-expand-activity-7092575199241351168-fZyk?utm_source=share&utm_medium=member_ios",
+      "https://www.linkedin.com/posts/shahryarkhan7_startups-ai-sales-activity-7092743586403786752-cNhk?utm_source=share&utm_medium=member_ios",
+      "https://youtu.be/jKSRsMyQ7GI",
+      "https://www.youtube.com/watch?v=nxi4RYGas4Q",
+      "https://www-thenationalnews-com.cdn.ampproject.org/c/s/www.thenationalnews.com/business/start-ups/2023/08/03/dubai-start-up-lvl-wellbeing-raises-10m-series-a-funding-led-by-multiply-group-unit/?outputType=amp",
+      "https://ntdp.gov.sa/en/initiative/relocate",
+      "https://www.instagram.com/p/CvcyZ4UohyZ/?igshid=MTc4MmM1YmI2Ng==",
+      "https://www.linkedin.com/posts/zainkahn_this-instagram-model-makes-10-million-a-activity-7092844741289025536-PyOo?utm_source=share&utm_medium=member_desktop",
+      "https://www.instagram.com/lilmiquela/"
+    ],
+    "date": "03082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Regulating social media content in Saudi Arabia",
+        "search_terms": [
+          "Saudi Arabia",
+          "social media content",
+          "misinformation"
+        ],
+        "detailed_topic_summary": "The group discusses the need for regulating social media content in Saudi Arabia due to the spread of misinformation about the rules and regulations of the country in different languages. It is emphasized that reporting such content is important for the perception of the country by foreigners and children who may absorb such attitudes."
+      },
+      {
+        "topic": "Troubleshooting domain registration service",
+        "search_terms": ["domain registration", "TDRA", "individual profile"],
+        "detailed_topic_summary": "The group discusses issues with using the domain registration service on the TDRA website. They share a direct link to the service and mention that it requires registration as a company. Some members mention being able to access the service without an individual profile, while others state that they can access it using UAE pass. The conversation also includes suggestions on alternative services."
+      },
+      {
+        "topic": "Vulture funds and venture capital",
+        "search_terms": [
+          "vulture funds",
+          "venture capital",
+          "Brookfield",
+          "Sequoia"
+        ],
+        "detailed_topic_summary": "The group discusses the concept of vulture funds and their involvement in the venture capital market. They mention a news article that talks about Brookfield and Sequoia setting up a vulture fund of funds with a $250M capital contribution from each. The purpose of the fund is to invest in discounted VC funds that are struggling due to bad investments."
+      },
+      {
+        "topic": "Barbie movie release in UAE cinemas",
+        "search_terms": ["Barbie movie", "UAE cinemas"],
+        "detailed_topic_summary": "The group discusses the news of the clearance for the release of the Barbie movie in UAE cinemas. They mention it as a potential team-building event for the community and ask if someone can organize it. Some members express interest, while others decline. A link to an article about the movie release is shared."
+      },
+      {
+        "topic": "Community introductions and networking",
+        "search_terms": ["community", "networking", "introductions"],
+        "detailed_topic_summary": "Members of the group introduce themselves and welcome a new member named Ahmed. Ahmed shares his background as a university student majoring in computer science and expresses his interest in tech solutions, particularly AI. Other members welcome Ahmed and express their interest in connecting and collaborating with him."
+      },
+      {
+        "topic": "Padel and leisure activities",
+        "search_terms": ["Padel", "leisure activities"],
+        "detailed_topic_summary": "The group briefly discusses playing padel, a sport similar to tennis. Some members express their interest in playing padel, while others mention their preference for other activities like spending time with family or playing Barbie. Contact numbers and recommendations for padel playing are also shared."
+      },
+      {
+        "topic": "AI tools for transcription and language processing",
+        "search_terms": ["AI tools", "transcription", "language processing"],
+        "detailed_topic_summary": "The group discusses various AI tools for transcription and language processing, including Avoma.com, Sybill.ai, and Otter.ai. Some members share their experiences with these tools and mention token issues with Falcon AI, stating that GPT 3.5 is better. The topic includes expressions of amazement and appreciation for the capabilities of these AI tools."
+      },
+      {
+        "topic": "Middle East startup awards",
+        "search_terms": ["Middle East", "startup awards"],
+        "detailed_topic_summary": "The group mentions an upcoming startup awards event hosted in Ras Al Khaimah, involving eight countries in the Middle East. Some members express their thoughts and feedback on the event, while others mention that they will not be able to attend. A link to an article about the event is shared."
+      },
+      {
+        "topic": "MENA's top startups of 2023",
+        "search_terms": ["MENA", "top startups"],
+        "detailed_topic_summary": "The group mentions a list of the top startups in the MENA region for 2023. They express excitement about the growth of the community, the interesting pitches, and the overall amazing progress. Some members comment on the quality of the pitches and express their appreciation for the community."
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://www.linkedin.com/posts/umairkhalidbasheer_tiktok-meta-socialmediaevolution-activity-7092971722819158017-bLX8?utm_source=share&utm_medium=member_ios",
+      "https://tdra.gov.ae/en/",
+      "https://nafis.gov.ae/",
+      "https://tdra.gov.ae/en/Services/accredited-domain-registrar-license",
+      "https://twitter.com/stephmui/status/1687138175183994880?t=WwEtUWLNxLgATHV-Q4aruA&s=08",
+      "https://www.ft.com/content/7bfe593f-078e-4278-ad19-d737f0aed694",
+      "https://www-thenationalnews-com.cdn.ampproject.org/c/s/www.thenationalnews.com/arts-culture/film-tv/2023/08/04/barbie-movie-cleared-for-release-in-uae-cinemas/?outputType=amp",
+      "https://www.letswork.io/?fbclid=PAAabbNpPzR65BHjyfYuyWa5UUu2u7uwIoDJ_uirkyGi8jSJnKNckWxcH28Ew_aem_ATATGytZvsT_IbBiEHFCeE9uqVPdCWzNHPZ76VHD4BZwwHTi-7ieF9VOSUc9rMr8yYE",
+      "https://www.linkedin.com/posts/linasbeliunas_apple-just-announced-that-its-high-yield-activity-7093183889845702656-sYP8?utm_source=share&utm_medium=member_android",
+      "https://www.khaleejtimes.com/business/ras-al-khaimah-to-host-8-countries-for-middle-east-startup-awards-2022-2023-in-january-2024",
+      "https://wired.me/business/top-mena-startups-of-2023/"
+    ],
+    "date": "04082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Pitches and Community",
+        "search_terms": ["pitches", "community"],
+        "detailed_topic_summary": "The chat starts with praise for the fantastic pitches. The community is acknowledged as being diverse and innovative, with a focus on opposing opinions and changing the world. Birthday wishes are also exchanged."
+      },
+      {
+        "topic": "Job Search",
+        "search_terms": [
+          "job search",
+          "web development",
+          "start-up experience"
+        ],
+        "detailed_topic_summary": "Someone mentions their cousin with Google and start-up experience who is currently looking for work. They have web development skills and are open to relocation."
+      },
+      {
+        "topic": "Venture Pitching",
+        "search_terms": [
+          "women-led startups",
+          "pitching event",
+          "venture pitching"
+        ],
+        "detailed_topic_summary": "A request is made for women-led startups interested in pitching at an event called Wiseforum.ae. The previous series highlights are shared."
+      },
+      {
+        "topic": "Horse Race Industry",
+        "search_terms": ["competitive camel race", "horse race industry"],
+        "detailed_topic_summary": "Someone asks for connections or information related to the competitive camel/horse race industry in the UAE. They also request an alternative word for 'industry'."
+      },
+      {
+        "topic": "New Members and Networking",
+        "search_terms": ["new members", "LinkedIn", "networking"],
+        "detailed_topic_summary": "New members introduce themselves, share their LinkedIn profiles, and express excitement about being part of the community. Contacts and networking opportunities are exchanged."
+      },
+      {
+        "topic": "Banking Issues and Solutions",
+        "search_terms": [
+          "Mashrek bank Neo",
+          "account closure",
+          "banking issue"
+        ],
+        "detailed_topic_summary": "There is a discussion about problems with Mashrek bank Neo accounts. Some users report their accounts being closed and difficulties in accessing funds. Contact information and alternative banking options are shared to help resolve the issue."
+      },
+      {
+        "topic": "Amazon Selling and Venture Building",
+        "search_terms": ["Amazon merchant", "dropshipping", "venture building"],
+        "detailed_topic_summary": "Someone inquires about experiences with selling on Amazon as a merchant and researching dropshipping and FBA. Resources and potential business models, such as venture building, are suggested."
+      },
+      {
+        "topic": "Artificial Intelligence",
+        "search_terms": ["AI forums", "artificial intelligence"],
+        "detailed_topic_summary": "A member requests information about forums for beginners interested in AI. A YouTube video and a link to a report on venture builders are provided as potential resources."
+      },
+      {
+        "topic": "Start-up Discounts",
+        "search_terms": ["The entertainer", "Privilee", "special discounts"],
+        "detailed_topic_summary": "Someone expresses interest in connecting with companies like The entertainer or Privilee to offer special discounts to their customers. The idea of a venture builder or Rocket Internet type model is suggested."
+      },
+      {
+        "topic": "Dubai Future Foundation",
+        "search_terms": ["Dubai Future Foundation", "event participation"],
+        "detailed_topic_summary": "A member requests contacts at the Dubai Future Foundation to get more information on being part of the Dubai Assembly for Generative AI event. Contact information is shared."
+      }
+    ],
+    "hiring_requests": ["web developer", "start-up experience"],
+    "links": [
+      "https://stories.veehive.ai/home?9710193d-7617-4a4e-bb14-eac71de1c172?Whatsapp",
+      "https://www.bloomberg.com/news/articles/2023-07-13/uae-royal-s-firm-drags-down-abu-dhabi-index-after-42-000-rally",
+      "https://chimerainvestment.com/Website/en/about-us.html",
+      "https://www.reuters.com/business/abu-dhabis-ihc-focus-domestic-acquisitions-global-economy-slows-2023-08-03/",
+      "https://www.instagram.com/p/Cvkiso9Pyu0/?igshid=MTc4MmM1YmI2Ng==",
+      "https://www.youtube.com/watch?v=PLr95AFBRXI",
+      "https://www.dubaifuture.ae/dubai-assembly-for-generative-ai"
+    ],
+    "date": "05082023"
   }
 ]
