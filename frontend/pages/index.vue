@@ -1,39 +1,14 @@
 <template>
   <div class="flex flex-col justify-center items-start px-3 w-full">
-    <div
-      class="date-navigation text-md text-primary-focus flex-row flex justify-around w-full items-stretch text-2xl"
-    >
-      <div class="previous cursor-pointer">
-       
-         <NuxtLink v-bind:to="previous_date">⏮️</NuxtLink>
-      </div>
-      <div class="current-date w-4/5 text-center text-lg">
-        {{ formattedDate }}
-      </div>
-      <div class="next grayscale cursor-pointer">⏭️</div>
-    </div>
+    <Navigation next_date="" :previous_date="previous_date" 
+    :formattedDate = "formattedDate"></Navigation>
+   
     <div class="topics-holder w-full mt-10">
       <h1 class="text-xl text-accent-content">Topics Discussed</h1>
 
-      <div class="topic flex flex-col">
+      <div class="topic flex flex-col lg:grid lg:grid-cols-3 lg:gap-4">
         <!-- card start-->
-        <div
-          class="card card-compact bg-base-300 bg-opacity-60 mt-5"
-          v-for="topic in data.main_topics"
-        >
-          <div class="card-body">
-            <span class="text-lg font-bold accent-content">{{
-              topic.topic
-            }}</span>
-            <div class="searchable">
-              <span
-                class="badge badge-accent mx-1 py-1 text-md mt-3"
-                v-for="term in splitter(topic.search_terms)"
-                >{{ term }}</span
-              >
-            </div>
-          </div>
-        </div>
+        <TopicCard :main_topics="data.main_topics"></TopicCard>
         <!-- Card end-->
         <!-- Links Shared -->
       </div>
