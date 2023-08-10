@@ -1,6 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  devtools: { enabled: false },
+  devtools: { enabled: true },
+  sourcemap: {
+    server: true,
+    client: true
+  },
   css: [
     "~/assets/css/tailwind.css"
   ],
@@ -20,5 +24,9 @@ export default defineNuxtConfig({
     families: {
       Montserrat: true,
     }
-  }
+  },
+ build: {
+  standalone: true,
+}
+
 })

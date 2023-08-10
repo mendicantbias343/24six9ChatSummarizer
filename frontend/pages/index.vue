@@ -40,14 +40,18 @@
       </ul>
     </div>
   </div>
+  
 
-  <pre></pre>
+
 </template>
 
 <script setup>
 import all_data from "../content/final_data.json";
+
 const route = useRoute();
-let data;
+let { data } = await useAsyncData('export', () => queryContent('export').findOne())
+let csvdata = data
+
 if (!route.params.date) {
   // we've to setup the first one as the main one
   data = all_data[all_data.length - 1];
@@ -101,6 +105,9 @@ function splitter(arrayorstring){
     return arrayorstring.split(",")
   }
 }
+
+
+
 </script>
 
 <style scoped></style>
