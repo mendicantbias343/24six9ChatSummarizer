@@ -63,14 +63,7 @@ const other_data = all_data;
 const dates = other_data.map((data) => data.date);
 const count_of_dates = dates.length;
 const current_index = dates.findIndex((x) => x == route.params.date);
-import MarkdownIt from "markdown-it";
-import { copyText } from 'vue3-clipboard'
 
-const markdown = new MarkdownIt({
-  html: true,
-  linkify: true,
-  typographer: true
-});
 if (!route.params.date) {
   // we've to setup the first one as the main one
   data.value = all_data[all_data.length - 1];
@@ -85,10 +78,11 @@ function spliter(stringList) {
 // navigation setup
 const next_date = ref("");
 const previous_date = ref("");
-onUpdated(() => {
-  next_date.value = "";
-  previous_date.value = "";
-});
+// onUpdated(() => {
+//   console.log("On Update called")
+//   next_date.value = "";
+//   previous_date.value = "";
+// });
 
 if (current_index.value == 0) {
   // this is the earliest one

@@ -34,7 +34,7 @@ def get_last_n_days(n):
 
 dates = get_last_n_days(7) 
 #dates = ['12/07/2023', '13/07/2023', '14/07/2023', '15/07/2023', '16/07/2023', '17/07/2023', '18/07/2023', '19/07/2023', '20/07/2023', '21/07/2023', '22/07/2023', '23/07/2023', '24/07/2023', '25/07/2023', '26/07/2023', '27/07/2023', '28/07/2023', '29/07/2023', '30/07/2023']
-dates = ['31/07/2023', '01/08/2023', '02/08/2023', '03/08/2023', '04/08/2023', '05/08/2023']
+dates = ['06/08/2023','07/08/2023', '08/08/2023', '09/08/2023', '10/08/2023', '11/08/2023', '12/08/2023', '13/08/2023']
 # print(dates)
 # exit()
 
@@ -121,7 +121,7 @@ for index, date in enumerate(dates):
         print("Calling " + str(index) + "for the date: " + date)
         message = [{
             "role": "system",
-            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following chat and summarize it into a concise topics (min 3, max 10).Don't use vague terms like various topics. Each topic has to be unique and not related to the next one. When you're giving the detailed topic summary, please retain links and important conversation pieces. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main themes covered>', 'search_terms': [<2-3 unique search terms that are present in the text>], detailed_topic_summary: <verbose discussion details. minimum 70 words.>}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
+            "content": "You are a highly skilled AI trained in language comprehension and summarization. I would like you to read the following chat and summarize it into a concise topics (min 3, max 10).Don't use vague terms like various topics. Each topic has to be unique and not related to the next one. When you're giving the detailed topic summary, please retain links and important conversation pieces. Your response should be in a JSON format: { main_topics: [{ topic : '<list of main themes covered>', 'search_terms': [<2-3 unique search terms that are present in the text>], detailed_topic_summary: <verbose discussion details. minimum 70 words.>, key_points: [ list of points made by individuals]}, hiring_requests: <list of roles hired for as an array>, links: <list of links shared as an array>}"
 
         },
             {
