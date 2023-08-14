@@ -9,7 +9,7 @@
             : 'next cursor-pointer grayscale'
         "
       >
-        <NuxtLink v-bind:to="previous_date">⏮️</NuxtLink>
+        <NuxtLink v-bind:to="previous_date"><icons.LeftIcon></icons.LeftIcon></NuxtLink>
       </div>
       <div class="current-date w-4/5 text-center text-lg">
         {{ formattedDate }}
@@ -19,7 +19,9 @@
           next_date ? 'next cursor-pointer' : 'next cursor-pointer grayscale'
         "
       >
-        <NuxtLink v-bind:to="next_date">⏭️</NuxtLink>
+        <NuxtLink v-bind:to="next_date">
+        <icons.RightIcon></icons.RightIcon>
+        </NuxtLink>
       </div>
     </div>
 </template>

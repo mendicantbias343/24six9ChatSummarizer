@@ -73,7 +73,6 @@ function c2c(text2copy){
             alert('Can not copy')
             console.log(error)
           } else {
-            alert('Copied: ' + text2copy )
             console.log(event)
           }
         })

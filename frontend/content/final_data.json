@@ -257,7 +257,6 @@
     "links": [
       "https://www.linkedin.com/feed/update/urn:li:activity:7086440727055900672?utm_source=share&utm_medium=member_ios",
       "https://www.linkedin.com/posts/shylaishvelayutham_dubai-motivation-activity-7086467380251426817-h3nk?utm_source=share&utm_medium=member_android",
-      "linkedin.openinapp.co/nguvm",
       "http://paulgraham.com/greatwork.html#f9n",
       "https://twitter.com/therealprady/status/1680645510103977987?s=48&t=tAeUAAH8xeBfnsdNxHU9ng",
       "https://www.meetup.com/aws-dubai/events/294738813/",
@@ -1143,5 +1142,441 @@
       "https://www.dubaifuture.ae/dubai-assembly-for-generative-ai"
     ],
     "date": "05082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Selling on Amazon as a merchant",
+        "search_terms": ["Amazon", "selling", "merchant"],
+        "detailed_topic_summary": "Someone in the chat is looking for experience and information on selling on Amazon as a merchant. They are researching dropshipping and FBA. They request direct messages for more information.",
+        "key_points": []
+      },
+      {
+        "topic": "Issue with Mashreq Bank Neo account",
+        "search_terms": ["Mashreq Bank", "Neo account"],
+        "detailed_topic_summary": "A member of the group is facing issues with their Mashreq Bank Neo account. Their account was closed without explanation and they are unable to access their account. They are seeking help and contacts at Mashreq Bank to resolve the issue.",
+        "key_points": [
+          "Mashreq Bank Neo account closure",
+          "Request for contacts at Mashreq Bank to resolve the issue"
+        ]
+      },
+      {
+        "topic": "Dubai Future Foundation event",
+        "search_terms": ["Dubai Future Foundation", "event", "generative AI"],
+        "detailed_topic_summary": "A member inquires about contacts at Dubai Future Foundation to get more information about an event related to generative AI. Another member shares contacts and resources related to the topic.",
+        "key_points": [
+          "Inquiry about contacts at Dubai Future Foundation",
+          "Sharing of contact information and related resources"
+        ]
+      },
+      {
+        "topic": "Discussion on opening bank accounts",
+        "search_terms": [
+          "bank accounts",
+          "Mashreq Neo",
+          "WIO",
+          "FAB",
+          "Liv",
+          "CBD"
+        ],
+        "detailed_topic_summary": "Members discuss different options for opening bank accounts. There is a mixed opinion on the Mashreq Neo account, with some members experiencing issues and others recommending alternatives like WIO, FAB, Liv, and CBD. There is also discussion about the startup-friendliness of different banks.",
+        "key_points": [
+          "Opinions and experiences with different banks and accounts",
+          "Recommendations for alternative bank accounts"
+        ]
+      }
+    ],
+    "hiring_requests": [],
+    "links": [],
+    "date": "06082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Banking and Financial Services",
+        "search_terms": [
+          "ADIB",
+          "Mbank",
+          "bank account",
+          "quick resolution",
+          "Saudi Wealth Fund"
+        ],
+        "detailed_topic_summary": "The chat starts with a mention of ADIB and Mbank, discussing the opening of a bank account. There is a suggestion to call the bank directly for quick resolution. In relation to banking, there is also a mention of the Saudi Wealth Fund taking a $15.6 billion hit from SoftBank and tech.",
+        "key_points": [
+          "ADIB and Mbank mentioned for opening a bank account",
+          "Suggestion to call the bank directly for quick resolution",
+          "Saudi Wealth Fund's loss from SoftBank and tech"
+        ]
+      },
+      {
+        "topic": "Golden Visa Processing",
+        "search_terms": ["golden visas", "reputable person", "processing time"],
+        "detailed_topic_summary": "Someone in the group is looking for a reputable person to process golden visas. This leads to a discussion about the processing time, which takes 24-48 hours and requires the applicant to be inside the country. There is also a mention of providing discounts for the group.",
+        "key_points": [
+          "Discussion about processing golden visas",
+          "Processing time and requirements mentioned",
+          "Discount offered for the group"
+        ]
+      },
+      {
+        "topic": "AI and Technology",
+        "search_terms": ["AI voice", "AI solutions", "AI tools"],
+        "detailed_topic_summary": "The chat includes discussions related to AI and technology. One person asks how to create an AI voice, and suggestions are given for platforms like voice.ai and murf.ai. Another person shares a potential world-changing discovery in the cancer-fighting space. Additionally, a CEO presents their AI-related product called Jobescape, which educates freelancers on using AI tools.",
+        "key_points": [
+          "Discussion about creating an AI voice",
+          "Potential world-changing discovery in cancer-fighting",
+          "Presentation of an AI product for freelancers"
+        ]
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://www.bloomberg.com/news/articles/2023-08-06/saudi-wealth-fund-takes-15-6-billion-hit-from-softbank-and-tech",
+      "https://www.linkedin.com/posts/2022angels_difc-fintech-hive-women-in-tech-activity-7094146525227888640-JFWQ",
+      "https://www.instagram.com/reel/CuU8koMNffX/?igshid=NjFhOGMzYTE3ZQ==",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7094063360693989377?utm_source=share&utm_medium=member_android",
+      "https://www.ibm.com/products/text-to-speech",
+      "https://huggingface.co/spaces/MattGPT/Text-2-Speech",
+      "https://ntdp.gov.sa/en/initiative/relocate",
+      "https://sportsurge.club/",
+      "https://www.instagram.com/reel/CuPjEsPAvgz/?igshid=MTc4MmM1YmI2Ng==",
+      "https://stopncii.org/",
+      "https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin"
+    ],
+    "date": "07082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "PayPal launches U.S. Dollar Stablecoin",
+        "search_terms": ["PayPal", "U.S. Dollar Stablecoin"],
+        "detailed_topic_summary": "PayPal has made a smart move by launching a U.S. Dollar Stablecoin, a digital currency that maintains a stable value. This provides users with a secure and reliable means of digital transactions. For more information, refer to the link provided.",
+        "key_points": [
+          "PayPal launches U.S. Dollar Stablecoin",
+          "Provides users with a secure and reliable means of digital transactions"
+        ]
+      },
+      {
+        "topic": "Negative experiences with courier service ABC Cargo",
+        "search_terms": [
+          "ABC Cargo",
+          "courier service",
+          "negative experiences"
+        ],
+        "detailed_topic_summary": "The chat participants shared their negative experiences with ABC Cargo, a courier service for international shipments. They expressed disappointment with the poor customer service, extra charges, and long delays in shipping goods to their office in Saudi Arabia. It led to a discussion on the difficulties of finding a reliable cross-border shipping company. One participant recommended Emirates Airlines for personal use.",
+        "key_points": [
+          "Negative experiences with ABC Cargo",
+          "Issues with customer service, extra charges, and delays",
+          "Recommendation: Emirates Airlines for personal use"
+        ]
+      },
+      {
+        "topic": "Job openings for CTO positions",
+        "search_terms": ["CTO", "job openings"],
+        "detailed_topic_summary": "Several participants shared job openings for Chief Technology Officer (CTO) positions. They mentioned the desired qualifications, such as 10-15 years of experience in building B2B SaaS, Marketplaces, Data Plays, and AI tools. Contact details for referrals were also provided.",
+        "key_points": [
+          "Job openings for CTO positions",
+          "Qualifications: 10-15 years of experience in relevant fields",
+          "Referral contact details provided"
+        ]
+      }
+    ],
+    "hiring_requests": ["CTO", "Marketing people"],
+    "links": [
+      "https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin",
+      "https://6figr.com/career-roast?utm_source=share_btn",
+      "https://www.linkedin.com/in/waschbusch/",
+      "https://www.theguardian.com/business/2023/feb/06/us-economy-recession-signals-lipstick",
+      "https://chat.whatsapp.com/Fcb3jmkoy7x2gXJn1FzIvX"
+    ],
+    "date": "08082023"
+  },
+  {
+   
+    "main_topics": [
+      {
+        "topic": "Animal Attack",
+        "search_terms": ["snake", "hawk", "attack"],
+        "detailed_topic_summary": "The chat starts with a discussion about a Texas woman who was attacked by a snake and a hawk. The group comments on the unusual combination of an aerial and ground attack.",
+        "key_points": [
+          "Texas woman attacked by a snake and a hawk",
+          "Discussion about the unique combination of an aerial and ground attack"
+        ]
+      },
+      {
+        "topic": "Venture Capital",
+        "search_terms": ["VC", "dry powder", "Jon Sakoda"],
+        "detailed_topic_summary": "The chat includes links discussing venture capital (VC) and dry powder. One link leads to an article by Jon Sakoda about the shortage of VC funds. Another link is about Elon Musk's interest in neuralink technology.",
+        "key_points": [
+          "VC dry powder shortage discussed by Jon Sakoda",
+          "Elon Musk's interest in neuralink technology"
+        ]
+      },
+      {
+        "topic": "Hiring Auditors",
+        "search_terms": ["financials", "auditor", "free zone"],
+        "detailed_topic_summary": "The chat includes a discussion about hiring auditors to help prepare financials for seed funding. They mention looking for auditors registered in their free zone and recommend Finansheel and CrossVal. They also discuss a payment provider called My Fatura and the need for different audit processes in free zones.",
+        "key_points": [
+          "Discussion about hiring auditors for financials",
+          "Recommendations for auditors in free zone",
+          "Mention of My Fatura payment provider",
+          "Different audit processes in free zones"
+        ]
+      }
+    ],
+    "hiring_requests": ["Auditors"],
+    "links": [
+      "https://www.theguardian.com/us-news/2023/aug/08/texas-woman-snake-hawk-attack-silsbee?CMP=Share_AndroidApp_Other",
+      "https://www.linkedin.com/pulse/where-did-vc-dry-powder-go-jon-sakoda-1c",
+      "https://www.linkedin.com/posts/hassanawada_neuralink-elonmusk-technology-activity-7094716446450028544-zvIv?utm_source=share&utm_medium=member_ios",
+      "http://bit.ly/3OMguvj"
+    ],
+    "date": "09082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Global Opportunities",
+        "search_terms": ["funding opportunities for startups"],
+        "detailed_topic_summary": "The chat began with several people adding their phone numbers to the WhatsApp group. One member shared a link about global funding opportunities for startups. The conversation then shifted to introductions and stories of moving to Dubai as entrepreneurs. The discussion also touched on the challenges faced by startups in the region, including difficulties with payment gateways and company structure. The chat concluded with various topics such as marketing, vessel charters, venture capital activity in fintech, and the failures of certain startups and VCs.",
+        "key_points": [
+          "Global funding opportunities for startups",
+          "Challenges faced by startups in the region",
+          "Various topics related to entrepreneurship and business"
+        ]
+      },
+      {
+        "topic": "Venture Capital and Startup Failures",
+        "search_terms": ["venture capital activity", "startup failures"],
+        "detailed_topic_summary": "The chat included discussions about venture capital activity in the fintech industry and the failures of certain startups and VCs. There was a debate about the role of VCs and founders in the success or failure of startups. Some participants emphasized the importance of VCs choosing wisely and supporting founders, while others highlighted the need for founders to be responsible and avoid mismanagement of funds. The chat also mentioned the unpredictability of valuations and the need for more founder-led VCs.",
+        "key_points": [
+          "Discussion on venture capital activity and startup failures",
+          "Debate on the role of VCs and founders",
+          "Importance of responsible financial management"
+        ]
+      },
+      {
+        "topic": "Government Involvement in Startups",
+        "search_terms": ["government involvement in startups"],
+        "detailed_topic_summary": "The conversation delved into the role of governments in supporting and hindering startups. Some participants appreciated proactive government measures, such as clear regulations and innovation-friendly environments, that fostered growth in certain ecosystems. However, others criticized government entities for competing with startups and creating unfavorable market conditions. The chat also discussed the importance of government incentives and effective collaboration between the private and public sectors.",
+        "key_points": [
+          "Role of governments in supporting startups",
+          "Appreciation and criticism of government measures",
+          "Importance of incentives and collaboration between sectors"
+        ]
+      }
+    ],
+    "hiring_requests": [
+      "Marketing enthusiast",
+      "Product Owner (Mobile App)",
+      "BusDev Lead (b2b sales to clinics)"
+    ],
+    "links": [
+      "https://caena.io/funding-opportunities-for-startups/",
+      "https://www.ft.com/content/a9815bca-1b9d-4ba0-8d01-96ede77ba06a",
+      "https://www.linkedin.com/posts/serzhi_this-uae-startup-reimagines-the-recycling-activity-7095111427979456513--o4w",
+      "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/10/moove-takes-in-76m-equity-debt-from-mubadala-and-blackrock-at-a-550m-valuation/amp/",
+      "https://www.bbc.co.uk/news/science-environment-66407099",
+      "https://thefintechtimes.com/e-launches-mastercard-powered-digital-first-card-for-uae-residents/",
+      "https://www.linkedin.com/posts/obediah-ayton_abu-dhabi-oil-giant-builds-internal-investment-activity-7095412468046323712-UWyN?utm_source=share&utm_medium=member_android",
+      "https://meetings.skift.com/hopin-fire-sale-confirmed/",
+      "https://thefintechtimes.com/hub71-wio-bank-partner-to-streamline-banking-for-startups-in-abu-dhabi/",
+      "https://www.theabrahamicbusinesscircle.com/global-ecosystem/",
+      "https://techcrunch.com/2023/08/12/whos-going-to-be-crowned-the-new-king-of-eden/",
+      "https://www.dubainewsnest.com/dubai-tech-start-up-new-to-the-business-school-landscape/"
+    ],
+    "date": "10082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Startup investing and adaptation",
+        "search_terms": ["startup investing", "adaptation"],
+        "detailed_topic_summary": "The chat discusses the challenges of fund management in various asset classes, highlighting startups as the riskiest. It explores how venture capitalists learn, adapt, and pivot in a new startup economy. Some VC's may disappear due to hubris or limited maneuverability, while others will adapt and prosper. The role of government stimulus and natural market forces in the startup ecosystem is also debated.",
+        "key_points": []
+      },
+      {
+        "topic": "Lessons from Hopin's downfall",
+        "search_terms": [
+          "Hopin downfall",
+          "user-focused products",
+          "transparent marketing",
+          "sustainable success"
+        ],
+        "detailed_topic_summary": "The chat reflects on Hopin's downfall, attributing it to a lack of sustained growth and user-focused products. It emphasizes the importance of organic expansion, transparency, and consistent engagement in building a successful startup. The discussion also mentions other startups like Miro, Notion, Figma, Asana, and Trello as examples of companies with valuations aligned with consistent revenue growth. The key takeaway is the significance of strong foundations and genuine value propositions for sustainable success.",
+        "key_points": []
+      },
+      {
+        "topic": "Attracting investment and reputation of founders",
+        "search_terms": [
+          "founders attracting investment",
+          "reputation of founders",
+          "gambling with investors"
+        ],
+        "detailed_topic_summary": "The chat delves into the topic of founders attracting investment even after failure or misappropriation of funds. It suggests that money attracts money and highlights the influence of experience, lessons learned, and relationships. The discussion mentions examples of founders like Adam Neumann, Travis Kalanick, and others who have attracted investment despite previous failures. The conversation also touches on the reputations of founders and their ability to captivate investors.",
+        "key_points": []
+      },
+      {
+        "topic": "Visionary founders and consumer adoption",
+        "search_terms": [
+          "visionary founders",
+          "consumer adoption",
+          "Steve Jobs as a visionary"
+        ],
+        "detailed_topic_summary": "The chat explores the concept of visionary founders and their ability to predict the future success of their products. It mentions Steve Jobs as an example of a visionary founder who created products that people love. There is a debate about the criteria for defining a visionary and the role of consumer adoption in validating their status. The discussion touches on the importance of simplicity and consumer pain points in driving product adoption.",
+        "key_points": []
+      },
+      {
+        "topic": "ENBD app issues and customer support",
+        "search_terms": [
+          "ENBD app issues",
+          "customer support",
+          "online transfer bug"
+        ],
+        "detailed_topic_summary": "The chat discusses the technical issues faced by users of the ENBD app and the poor customer support experienced. Participants share personal anecdotes about failed online transfers and difficulties in ordering a chequebook. The frustration is evident, with one user calling it the worst customer support experience. The topic concludes with suggestions to visit a branch for issue resolution.",
+        "key_points": []
+      },
+      {
+        "topic": "Task management and productivity apps",
+        "search_terms": [
+          "task management apps",
+          "productivity apps",
+          "Asana vs. Monday vs. Notion vs. ClickUp"
+        ],
+        "detailed_topic_summary": "The chat includes a poll on task management apps used by participants. Options like ClickUp, Monday, Asana, Excel, Notion, Teams, and Others are mentioned. While there is a clear preference for Notion and other options, participants discuss the pros and cons of various apps. Personal recommendations and individual preferences are shared, highlighting the importance of task management in productivity.",
+        "key_points": []
+      },
+      {
+        "topic": "Introductions, congratulatory messages, and community updates",
+        "search_terms": [
+          "introductions",
+          "congratulatory messages",
+          "community updates"
+        ],
+        "detailed_topic_summary": "The chat includes introductions of new members, congratulatory messages, and updates within the community. It features discussions on topics like entrepreneurship, fashion/fashion tech, and Taqadam's program. Members share their expertise and offer assistance in various domains. The chat also mentions the Canva startup, the importance of feedback, and a poll on task management apps.",
+        "key_points": []
+      }
+    ],
+    "hiring_requests": ["Senior accounting professional"],
+    "links": [
+      "https://www.linkedin.com/posts/freddestin_i-spoke-to-a-few-people-in-the-us-on-the-activity-7095658593714073601-j9E0?utm_source=share&utm_medium=member_desktop",
+      "https://www.producthunt.com/collections/9-ai-tools-for-better-meetings",
+      "https://www.startupdaily.net/topic/business/exit-stage-bright-blackbird-offloads-150-million-slice-of-its-canva-stake-at-39-billion-valuation/",
+      "https://www.instagram.com/reel/CvnnNM-t5bM/?igshid=NTc4MTIwNjQ2YQ=="
+    ],
+    "date": "11082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "Community Gathering",
+        "search_terms": ["whatsapp group", "nice gathering", "community event"],
+        "detailed_topic_summary": "The chat started with a message expressing gratitude for a nice gathering. The group discussed potential tools for storing and comparing competitor data for SWOT analysis. There was a mention of a unique jewelry collection made from meteorites. Someone shared their credit card theft experience and sought insights on a website. There was a conversation about a community launch, and feedback was sought on a program called Ma'an. Additionally, there were mentions of a potential market for space-related jewelry and a link regarding OpenAI potentially going bankrupt.",
+        "key_points": [
+          "Expressing gratitude for a nice gathering",
+          "Discussion on tools for competitor data storage and comparison",
+          "Unique jewelry collection made from meteorites",
+          "Discussion on credit card theft and seeking insights",
+          "Conversation about a community launch",
+          "Seeking feedback on the Ma'an program",
+          "Exploration of market potential for space-related jewelry",
+          "Link to news about OpenAI's financial situation"
+        ]
+      },
+      {
+        "topic": "Competitor Data Analysis",
+        "search_terms": [
+          "competitors data tools",
+          "comparison of services",
+          "SWOT analysis"
+        ],
+        "detailed_topic_summary": "In the chat, someone asked about tools to store competitor data for the purpose of comparison and SWOT analysis. The mentioned tools included Owler, Crunchbase, LinkedIn, SEMrush, and Ahrefs. The conversation also touched upon the specific metrics the person was looking for.",
+        "key_points": [
+          "Discussion on tools for competitor data storage and analysis",
+          "Mentioned tools: Owler, Crunchbase, LinkedIn, SEMrush, Ahrefs",
+          "Question about the specific metrics being sought"
+        ]
+      },
+      {
+        "topic": "Credit Card Theft",
+        "search_terms": [
+          "credit card stolen",
+          "site security",
+          "charge dispute"
+        ],
+        "detailed_topic_summary": "A member shared their experience of having their credit card stolen and being charged over $25K on a website called NeverBounce. They were uncertain if the site was hacked. Other members expressed sympathy and shared their own experiences with credit card issues. Suggestions were made to contact the bank and file a claim.",
+        "key_points": [
+          "Sharing experience of credit card theft",
+          "Discussion on site security and potential hacking",
+          "Suggestions to contact the bank and file a claim"
+        ]
+      }
+    ],
+    "hiring_requests": [],
+    "links": [
+      "https://www.saastr.com/the-saastr-miniguide-to-pitching-raising-and-closing-vc-funding/",
+      "https://www.firstpost.com/tech/news-analysis/openai-may-go-bankrupt-by-2024-chatgpt-costs-company-700000-dollars-every-day-12986012.html",
+      "https://www.instagram.com/reel/CuMsKc-NYwb/?igshid=MTc4MmM1YmI2Ng==",
+      "https://www.linkedin.com/posts/pelagoniadxb_businesssetupdubai-ecommerce-retailmanagement-activity-7096158929943982081-zWjM?utm_source=share&utm_medium=member_ios",
+      "https://www.dubaifuture.ae/ai-program-government-services",
+      "https://data.org/initiatives/ai-challenge/",
+      "https://chat.whatsapp.com/C94ytuyUinsJkKtEBkGrta",
+      "https://www.irishtimes.com/business/2023/08/12/softbanks-reverse-midas-touch-strikes-again/"
+    ],
+    "date": "12082023"
+  },
+  {
+    "main_topics": [
+      {
+        "topic": "SoftBank and its founder, Masayoshi Son",
+        "search_terms": ["SoftBank", "Masayoshi Son"],
+        "detailed_topic_summary": "The chat discusses Masayoshi Son, the founder of SoftBank, and his track record in the tech industry. It questions Son's charisma and explores how he managed to secure billions of dollars in investments despite the perception that he lacks charisma. The conversation also touches on SoftBank's involvement in fraudulent activities and the lack of regulation in the venture capital (VC) industry.",
+        "key_points": [
+          "Masayoshi Son's track record in the tech industry",
+          "SoftBank's involvement in fraudulent activities",
+          "The lack of regulation in the VC industry"
+        ]
+      },
+      {
+        "topic": "The need for regulation in the VC industry",
+        "search_terms": ["venture capital industry", "regulation"],
+        "detailed_topic_summary": "The chat highlights the lack of regulation in the venture capital (VC) industry and the potential risks it poses. Participants discuss the need for regulatory oversight to protect against wealth destruction and to improve efficiency in the industry. They also raise concerns about the unregulated nature of VC compared to other money management industries and suggest that transparency could be a good starting point for regulation.",
+        "key_points": [
+          "The lack of regulation in the VC industry",
+          "The need for transparency and mandated transparency",
+          "The potential risks of unregulated VC"
+        ]
+      },
+      {
+        "topic": "Opportunities and collaborations in the AI and VC space",
+        "search_terms": ["artificial intelligence", "VC collaboration"],
+        "detailed_topic_summary": "The chat touches on opportunities and collaborations in the artificial intelligence (AI) and venture capital (VC) space. There are discussions about individuals looking to break into VC, sharing job opportunities, and the importance of onboarding AI startups. The conversation also mentions initiatives involving AI in retail and supporting artists in the Zaatari refugee camp.",
+        "key_points": [
+          "Opportunities in AI and VC",
+          "Job opportunities in VC",
+          "Supporting artists in the Zaatari refugee camp"
+        ]
+      }
+    ],
+    "hiring_requests": ["analyst/associate in VC"],
+    "links": [
+      "https://www.irishtimes.com/business/2023/08/12/softbanks-reverse-midas-touch-strikes-again/",
+      "https://instagram.com/griprigs?igshid=MzRlODBiNWFlZA==",
+      "https://www.linkedin.com/posts/ted-conferences_maybe-instead-of-chasing-after-happiness-activity-7089959758354337792-DSre?utm_source=share&utm_medium=member_android",
+      "https://www.linkedin.com/posts/umairkhalidbasheer_knowyourroots-amarbinauf-sahabalegacy-activity-7096467936814542848-93KA?utm_source=share&utm_medium=member_ios",
+      "https://www.zwag.ae/company-onboarding-form.html",
+      "https://maps.app.goo.gl/MfJEwjS1CbyjWkhp6?g_st=ic",
+      "https://maps.app.goo.gl/dddA3a3nvFmDJWau6?g_st=ic",
+      "https://www.linkedin.com/in/zuritacesar/",
+      "https://www.linkedin.com/posts/denis-yurchenko_practical-guide-ai-retail-denis-yurchenko-activity-7096489876254015488-jqN_",
+      "https://www.instagram.com/reel/Cv4zYjMplpD/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7096489876254015488",
+      "https://kawkab.art/collections/zaatari-refugee-camp",
+      "https://fortune.com/2023/08/04/threads-traffic-spiral-down-82-percent-launch-month-mark-zuckerberg/",
+      "https://www.linkedin.com/pulse/practical-guide-ai-retail-denis-yurchenko/",
+      "https://www.linkedin.com/in/elin-s%C3%B6nnerfors-459a74154",
+      "https://www.linkedin.com/posts/wamda_flat6labs-announces-100000-funding-for-activity-7094697416385294336-kTYi?utm_source=share&utm_medium=member_android"
+    ],
+    "date": "13082023"
   }
 ]

@@ -27,3 +27,6 @@ frontend/!.env.example
 chat.txt
 *.txt
 !requirements.txt
+
+frontend/content/leaderboard.json
+leaderboard.vue
