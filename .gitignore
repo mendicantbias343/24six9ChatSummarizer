@@ -28,5 +28,4 @@ chat.txt
 *.txt
 !requirements.txt
 
-frontend/content/leaderboard.json
-leaderboard.vue
+frontend\content\leaderboard.json
