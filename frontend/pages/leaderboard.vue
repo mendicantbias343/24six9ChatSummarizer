@@ -94,7 +94,6 @@ async function thisMonthRange() {
 
 async function last7days() {
   return [ new Date(last_date.getTime() - (7 * 24 * 60 * 60 * 1000)) , last_date]
-  
 }
 
 async function updateTable(filterType) {
