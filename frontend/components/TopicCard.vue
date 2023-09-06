@@ -60,6 +60,7 @@ import { copyText } from 'vue3-clipboard'
  })
 
  function splitter(arrayorstring) {
+  //console.log(" Slicer output: " + arrayorstring)
   if (Array.isArray(arrayorstring)) {
     return arrayorstring;
   } else {
